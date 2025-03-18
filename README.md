@@ -1,2 +1,3 @@
 # BrainFuse
-Essa biblioteca é exclusiva para uso do aplicativo Wavelink  do proprietário legal Eduardo José Maria 
+Essa biblioteca é exclusiva para uso do aplicativo Wavelink internet gratuita.
+Proprietário legal Eduardo José Maria.
